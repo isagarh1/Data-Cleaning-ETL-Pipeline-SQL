@@ -75,5 +75,5 @@
 
 - pgAdmin: The primary tool used to execute the SQL queries and manage the database.
 
-**Licence** 
-This project is licensed under the MIT License
+**Licence** :
+- This project is licensed under the MIT License
