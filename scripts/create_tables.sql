@@ -1,3 +1,5 @@
+-- Create database: Data_warehouse
+
 -- Create Schemas:
 
 CREATE SCHEMA bronze;
